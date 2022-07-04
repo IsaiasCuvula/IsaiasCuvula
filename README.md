@@ -1,6 +1,6 @@
 ### Hi there 👋🏾
 
-I'm Isaias Cuvula, mobile developer and content creator - Let's talk about Programming and Technology
+I'm Isaias Cuvula, Mobile Developer and Content Creator - Let's talk about Programming and Technology
 
 - 🌱 I’m currently learning Flutter/Dart 💙
 - 🔭 && working on my Flutter Portfolio. 
