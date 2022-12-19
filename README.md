@@ -2,8 +2,8 @@
 
 I'm Isaias Cuvula, Mobile Developer and Content Creator - Let's talk about Programming and Technology
 
-- 🌱 I’m currently learning Flutter/Dart 💙
-- 🔭 && working on my Flutter Portfolio. 
+- 🌱 I’m currently improving my Flutter & Dart Skills 💙,
+- 🔭 Working also on Billiffy App. 
 
 <div align="center">
   <a href="https://github.com/IsaiasCuvula">
