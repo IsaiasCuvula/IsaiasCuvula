@@ -1,8 +1,8 @@
 ### Hi there 👋🏾
 
 - I'm Isaias Cuvula, Mobile Developer & Content Creator.
-- Currently, my focus is building beautiful apps using Flutter.
-- Let's talk about mobile development technology
+- Currently, my focus is building beautiful apps with Flutter.
+- Let's talk about mobile development technologies.
 
 - 🌱 I’m currently improving my Flutter & Dart Skills 💙,
 - 🔭 Building Billiffy App: [iOS](https://apps.apple.com/bg/app/billiffy/id1638395030), [Android](https://play.google.com/store/apps/details?id=com.bersyte.billify)
