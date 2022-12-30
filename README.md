@@ -6,7 +6,7 @@ My current focus is developing mobile apps using Flutter.
 - Let's talk about mobile development technology
 
 - 🌱 I’m currently improving my Flutter & Dart Skills 💙,
-- 🔭 Building Billiffy App. 
+- 🔭 Building Billiffy App: [iOS](https://apps.apple.com/bg/app/billiffy/id1638395030), [Android](https://play.google.com/store/apps/details?id=com.bersyte.billify)
 
 <div align="center">
   <a href="https://github.com/IsaiasCuvula">
