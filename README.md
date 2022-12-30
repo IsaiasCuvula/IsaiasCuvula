@@ -1,8 +1,7 @@
 ### Hi there 👋🏾
 
-I'm Isaias Cuvula, Mobile Developer & Content Creator.
-
-My current focus is developing mobile apps using Flutter.
+- I'm Isaias Cuvula, Mobile Developer & Content Creator.
+- Currently, my focus is developing beautiful mobile apps using Flutter.
 - Let's talk about mobile development technology
 
 - 🌱 I’m currently improving my Flutter & Dart Skills 💙,
