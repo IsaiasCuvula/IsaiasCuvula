@@ -3,10 +3,10 @@
 I'm Isaias Cuvula, Mobile Developer & Content Creator.
 
 My current focus is developing mobile apps using Flutter.
-- Let's talk about Programming and Technology
+- Let's talk about mobile development technology
 
 - 🌱 I’m currently improving my Flutter & Dart Skills 💙,
-- 🔭 Working also on Billiffy App. 
+- 🔭 Building Billiffy App. 
 
 <div align="center">
   <a href="https://github.com/IsaiasCuvula">
