@@ -3,7 +3,7 @@
 - I'm Isaias Cuvula, Mobile Developer & Content Creator.
 - 🌱 Currently, building beautiful apps with Flutter & Dart 💙.
 - 🔭 Building Billiffy App: [iOS](https://apps.apple.com/bg/app/billiffy/id1638395030), [Android](https://play.google.com/store/apps/details?id=com.bersyte.billify)
-- Lifetime learner
+- Lifetime learner, currently learning Node.js
 - Let's talk about mobile development technologies.
 
 <div align="center">
