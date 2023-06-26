@@ -1,37 +1,28 @@
-### Hi there 👋🏾
-
-- I'm Isaias Cuvula, Mobile Developer & Content Creator.
-- 🌱 Currently, building beautiful apps with Flutter & Dart 💙.
-- 🔭 Building Billiffy App: [iOS](https://apps.apple.com/bg/app/billiffy/id1638395030), [Android](https://play.google.com/store/apps/details?id=com.bersyte.billify)
-- Lifetime learner, currently learning Flutter 💙
-- Let's talk about mobile development technologies.
-
-<div align="center">
-  <a href="https://github.com/IsaiasCuvula">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isaiascuvula&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaiascuvula&layout=compact&langs_count=7&theme=algolia"/>
-</div>
+# 💫 About Me:
+I'm Isaias Cuvula, Mobile Developer & Content Creator.<br>🌱 Currently, building beautiful apps with Flutter & Dart 💙.<br>🔭 Building Billiffy App: iOS, Android<br>Lifetime learner, currently learning Flutter 💙<br>Let's talk about mobile development technologies.
 
 
-<div style="display: inline_block"><br>
-   <img align="center" alt="Isa-Flutter" height="30" width="40" src="https://user-images.githubusercontent.com/68303716/177214981-d1c012e1-e7fa-4e7c-af26-27130b1a4284.svg">
-  <img align="center" alt="Isa-Dart" height="35" width="45" src="https://user-images.githubusercontent.com/68303716/177214927-9e31c0ad-a5d9-4bbd-9605-92779e697724.svg">
-   <img align="center" alt="Isa-Kotlin" height="30" width="40" src="https://user-images.githubusercontent.com/68303716/177214857-aedc5a18-eb7f-44d4-8be1-28cdd9ed0462.svg">
-  <img align="center" alt="Isa-iOS" height="45" width="55" src="https://user-images.githubusercontent.com/68303716/177215082-249f4005-401b-46ba-bb56-edf9b1c9bc2d.svg">
-   <img align="center" alt="Isa-Android" height="35" width="45" src="https://user-images.githubusercontent.com/68303716/177215226-a6b13561-9f7b-41dd-8b0f-7eea1236937c.svg">
-  
- 
-</div>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/isaias_cuvula) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/isaias-cuvula) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ICuvula) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UChCgMnyGKOgEGDvubbjjr6A) 
 
-##
+# 💻 Tech Stack:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=plastic&logo=apple&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=plastic&logo=android&logoColor=%a4c639) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=plastic&logo=kotlin&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=IsaiasCuvula&theme=algolia&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=IsaiasCuvula&theme=algolia&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaiasCuvula&theme=algolia&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-<div> 
-  <a href="https://www.youtube.com/channel/UChCgMnyGKOgEGDvubbjjr6A" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/isaias_cuvula/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:bersyteinfo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/isaias-cuvula-988a8a1a9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://twitter.com/ICuvula" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-</div>
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=ICuvula)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=IsaiasCuvula&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=IsaiasCuvula&icon=0&color=2)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/bersyteinf4) 
 
 
  
