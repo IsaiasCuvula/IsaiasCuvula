@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Isaias Cuvula, Mobile Developer & Content Creator.<br>🌱 Currently, uilding beautiful apps with Flutter & Dart 💙.<br>🔭 Building Billiffy App: iOS, Android<br>Lifetime learner, currently learning Html, CSS & JS<br>Let's talk about mobile development technologies.<br>My dream is to bootstrap a profitable SaaS.
+I'm Isaias Cuvula, Mobile Developer & Content Creator.<br>🌱 Currently, building beautiful apps with Flutter & Dart 💙.<br>🔭 Building Billiffy App: iOS, Android<be> <br>Let's talk about mobile app development.
 
 
 ## 🌐 Socials:
