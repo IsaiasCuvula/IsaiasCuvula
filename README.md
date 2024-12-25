@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Isaias Cuvula, Software Engineer - Java & Mobile Developer.<br>🌱 Currently, Developing backend systems with Java Spring ☕ <br>& building beautiful apps with Flutter & Dart 💙.<br>🔭 Building [Billiffy](https://billiffy.com/) App: [iOS](https://apps.apple.com/app/billiffy/id1638395030), [Android](https://play.google.com/store/apps/details?id=com.bersyte.billify)<be> 
+I'm Isaias Cuvula, Software Engineer - Java & Mobile Developer.<br>🌱 Currently, Developing backend systems with Java Spring and .NET ☕ <br>& building beautiful apps with SwiftUI, Jetpack Compose and Flutter 💙.<br>🔭 Building [Billiffy](https://billiffy.com/) App: [iOS](https://apps.apple.com/app/billiffy/id1638395030), [Android](https://play.google.com/store/apps/details?id=com.bersyte.billify)<be> 
 ---
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white)
