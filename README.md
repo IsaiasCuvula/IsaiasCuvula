@@ -1,8 +1,8 @@
 # 👋🏾 Hi, I'm Isaias Cuvula
 
-## 🚀 Full Stack Developer | Java Spring Boot | Flutter |
+## 🚀 Full Stack Developer | Java Spring Boot | Android & iOS |
 
-I'm a software engineer passionate about creating robust and elegant solutions. Specialized in backend development with Java Spring Boot and cross-platform mobile development with Flutter.
+I'm a software engineer passionate about creating robust and elegant solutions. Specialized in backend development with Java Spring Boot and mobile development with Flutter, Kotlin and Swift.
 
 ### 🏆 Featured Projects
 
