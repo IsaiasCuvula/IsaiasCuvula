@@ -40,22 +40,7 @@ I'm a software engineer passionate about creating robust and elegant solutions. 
 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-#### Design Patterns & Architecture
-
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![SOLID](https://img.shields.io/badge/SOLID-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![DDD](https://img.shields.io/badge/DDD-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IsaiasCuvula&theme=algolia&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsaiasCuvula&theme=algolia&hide_border=false" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaiasCuvula&theme=algolia&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
-</div>
 
 ### 🌐 Socials
 
