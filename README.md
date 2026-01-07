@@ -6,13 +6,14 @@ I'm a software engineer passionate about creating robust and elegant solutions. 
 
 ### 🏆 Featured Projects
 
-#### Billiffy - Financial Management App
+#### Billiffy - Personal Finance App
 
 - [iOS](https://apps.apple.com/app/billiffy/id1638395030)
 - [Android](https://play.google.com/store/apps/details?id=com.bersyte.billify)
-- Complete personal finance management platform
-- Built with Flutter for native experience on both platforms
-- Robust Java Spring Boot backend
+
+#### iShop – Ecommerce App
+
+- [GitHub](https://github.com/IsaiasCuvula/flutter_ecommerce_with_firebase)
 
 ### 💻 Tech Stack
 
@@ -41,18 +42,16 @@ I'm a software engineer passionate about creating robust and elegant solutions. 
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=black)
 
-
 #### Other Technologies
 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black)
+![AI](https://img.shields.io/badge/AI-10A37F?style=flat-square&logo=openai&logoColor=white)
 
 #### IDEs & Editors
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-1B1F23?style=flat-square&logo=intellij-idea&logoColor=white)
-
-
 
 ### 🌐 Socials
 
