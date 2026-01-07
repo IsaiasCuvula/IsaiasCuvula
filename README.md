@@ -7,13 +7,10 @@ I'm a software engineer passionate about creating robust and elegant solutions. 
 ### 🏆 Featured Projects
 
 #### Billiffy - Personal Finance App
-
-- [iOS](https://apps.apple.com/app/billiffy/id1638395030)
-- [Android](https://play.google.com/store/apps/details?id=com.bersyte.billify)
+[Android](https://play.google.com/store/apps/details?id=com.bersyte.billify) | [iOS](https://apps.apple.com/app/billiffy/id1638395030)
 
 #### iShop – Ecommerce App
-
-- [GitHub](https://github.com/IsaiasCuvula/flutter_ecommerce_with_firebase)
+[GitHub](https://github.com/IsaiasCuvula/flutter_ecommerce_with_firebase)
 
 ### 💻 Tech Stack
 
