@@ -1,15 +1,20 @@
 # 👋🏾 Hi, I'm Isaias Cuvula
 
-## 🚀 Full Stack Developer | Java Spring Boot | Android & iOS |
+I'm a software engineer who loves building things that people actually use. 
+I work mostly on backend systems and mobile apps, creating clean solutions for real-world problems.
 
-I'm a software engineer passionate about creating robust and elegant solutions. Specialized in backend development with Java Spring Boot and mobile development with Flutter, Kotlin and Swift.
+### 🌱 Currently
+
+- 🎓 Master’s in Software Engineering
+- 🚀 Improving my skills in backend & mobile development
+- 💡 Have an idea? Let me build it
 
 ### 🏆 Featured Projects
 
-#### Billiffy - Personal Finance App
+#### Billiffy - Personal Finance App 
 [Android](https://play.google.com/store/apps/details?id=com.bersyte.billify) | [iOS](https://apps.apple.com/app/billiffy/id1638395030)
 
-#### iShop – Ecommerce App
+#### iShop – Complete Ecommerce Mobile App (Android & iOS)
 [GitHub](https://github.com/IsaiasCuvula/flutter_ecommerce_with_firebase)
 
 ### 💻 Tech Stack
@@ -28,7 +33,6 @@ I'm a software engineer passionate about creating robust and elegant solutions. 
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
 
 #### Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
@@ -56,7 +60,6 @@ I'm a software engineer passionate about creating robust and elegant solutions. 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/ICuvula)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/isaias_cuvula)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@isaiascuvula)
-
 
 ---
 
