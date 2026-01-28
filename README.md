@@ -9,13 +9,11 @@ I work mostly on backend systems and mobile apps, creating clean solutions for r
 - 🚀 Improving my skills in backend & mobile development
 - 💡 Have an idea? Let me build it
 
-### 🏆 Featured Projects
+### 🏆 Current Projects
 
-#### Billiffy - Personal Finance App 
-[Android](https://play.google.com/store/apps/details?id=com.bersyte.billify) | [iOS](https://apps.apple.com/app/billiffy/id1638395030)
+[Billiffy](https://play.google.com/store/apps/details?id=com.bersyte.billify) - Expense Manager
 
-#### iShop – Complete Ecommerce Mobile App (Android & iOS)
-[GitHub](https://github.com/IsaiasCuvula/flutter_ecommerce_with_firebase)
+[iShop](https://github.com/IsaiasCuvula/flutter_ecommerce_with_firebase) – Complete Ecommerce Mobile App (Android & iOS)
 
 ### 💻 Tech Stack
 
@@ -27,13 +25,6 @@ I work mostly on backend systems and mobile apps, creating clean solutions for r
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-#### DevOps, CI/CD & APIs
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
 #### Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
@@ -42,6 +33,13 @@ I work mostly on backend systems and mobile apps, creating clean solutions for r
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=black)
+
+#### DevOps, CI/CD & APIs
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 #### Other Technologies
 
