@@ -13,7 +13,7 @@ I work mostly on backend systems and mobile apps, creating clean solutions for r
 
 [Billiffy](https://play.google.com/store/apps/details?id=com.bersyte.billify) - Expense Manager
 
-[iShop](https://github.com/IsaiasCuvula/flutter_ecommerce_with_firebase) – Complete Ecommerce Mobile App (Android & iOS)
+[iShop](https://github.com/IsaiasCuvula/flutter_ecommerce_with_firebase) - Complete Ecommerce Mobile App (Android & iOS)
 
 ### 💻 Tech Stack
 
