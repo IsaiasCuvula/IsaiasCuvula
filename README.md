@@ -1,13 +1,14 @@
 # 👋🏾 Hi, I'm Isaias Cuvula
 
-I'm a software engineer who loves building things that people actually use. 
-I work mostly on backend systems and mobile apps, creating clean solutions for real-world problems.
+I'm a Mobile Software Engineer focused on building scalable, high-quality applications for real users.
+
+My main experience is in Flutter, Android, and Kotlin, with backend development in Java and Spring Boot helping me understand products end to end. I care about clean architecture, performance, maintainability, and shipping software that solves real problems.
 
 ### 🌱 Currently
 
-- 🎓 Master’s in Software Engineering
-- 🚀 Improving my skills in backend & mobile development
-- 💡 Have an idea? Let me build it
+- 🎓 Finalizing my Master’s in Software Engineering
+- 🚀 Strengthening my skills in mobile engineering, backend systems, and software architecture
+- 💡 Building useful products from idea to implementation
 
 ### 🏆 Current Projects
 
