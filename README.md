@@ -14,7 +14,7 @@ I care about **clean architecture, performance, maintainability, and building so
 
 ### 🏆 Current Projects
 
-[Billiffy](https://play.google.com/store/apps/details?id=com.bersyte.billify) - Expense Manager
+[Billiffy](https://github.com/IsaiasCuvula/billiffy/) - Expense Manager 
 
 [iShop](https://github.com/IsaiasCuvula/flutter_ecommerce_with_firebase) - Complete Ecommerce Mobile App (Android & iOS)
 
