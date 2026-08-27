@@ -1,7 +1,8 @@
 # 👋🏾 Hi, I'm Isaias Cuvula
 
-Mobile Engineer | Flutter & Kotlin/Jetpack Compose
-Building offline-first, production-ready apps end to end.
+Building mobile apps is easy. Keeping them fast and reliable as they scale is the real work.
+
+Mobile Engineer — Flutter (Android & iOS) & Native Android/Kotlin
 🎓 MSc in Software Engineering (finishing soon)
 
 ### 🏆 Current Projects
