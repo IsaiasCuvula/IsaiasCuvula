@@ -1,14 +1,8 @@
 # 👋🏾 Hi, I'm Isaias Cuvula
 
-I'm a Mobile Software Engineer focused on building scalable, reliable, and user-focused applications across platforms.
-Experienced with Flutter, Android/Kotlin, Jetpack Compose, REST APIs, and backend systems, building production-ready products end to end.
-I focus on clean architecture, offline-first design, performance, reliability, and maintainability.
-
-### 🌱 Currently
-
-- 🎓 Finalizing my Master’s in Software Engineering
-- 🚀 Strengthening my skills in mobile engineering, backend systems, and software architecture
-- 💡 Building useful products from idea to implementation
+Mobile Engineer | Flutter & Kotlin/Jetpack Compose
+Building offline-first, production-ready apps end to end.
+🎓 MSc in Software Engineering (finishing soon)
 
 ### 🏆 Current Projects
 
