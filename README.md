@@ -2,7 +2,7 @@
 
 Building mobile apps is easy. Keeping them fast and reliable as they scale is the real work.
 
-Mobile Developer - Flutter (Android & iOS) & Native Android/Kotlin
+Mobile Developer - Building for Android & iOS with Flutter & Native Android/Kotlin
 🎓 MSc in Software Engineering (finishing soon)
 
 ### 🏆 Current Projects
