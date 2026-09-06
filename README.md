@@ -7,7 +7,7 @@ Mobile Developer - Building for Android & iOS with Flutter & Native Android/Kotl
 
 ### 🏆 Current Projects
 
-[Billiffy](https://github.com/IsaiasCuvula/billiffy/) - Shared Budget & Expense 
+[Billiffy](https://github.com/IsaiasCuvula/billiffy/) - Personal & Collaborative Finance App
 
 [iShop](https://github.com/IsaiasCuvula/flutter_ecommerce_with_firebase) - Complete Ecommerce Mobile App (Android & iOS)
 
