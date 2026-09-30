@@ -1,9 +1,6 @@
 # 👋🏾 Hi, I'm Isaias Cuvula
 
-Building mobile apps is easy. Keeping them fast and reliable as they scale is the real work.
-
-Mobile Developer - Building for Android & iOS with Flutter & Native Android/Kotlin
-🎓 MSc in Software Engineering (finishing soon)
+I build mobile apps that feel fast, stay reliable, and scale.
 
 ### 🏆 Current Projects
 
