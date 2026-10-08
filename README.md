@@ -1,6 +1,11 @@
 # 👋🏾 Hi, I'm Isaias Cuvula
 
-Mobile developer building native and cross-platform apps for Android and iOS. Selected work below.
+Mobile developer building native and cross-platform apps for Android and iOS.
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?style=flat-square&logo=swift&logoColor=white)
+
 
 ## Featured projects
 
