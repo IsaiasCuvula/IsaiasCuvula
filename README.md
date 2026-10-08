@@ -12,9 +12,9 @@ Mobile developer building native and cross-platform apps for Android and iOS. Se
       </a>
       <h3>Billiffy</h3>
       Personal and collaborative finance app.<br>
-      <sub>Flutter · Firebase · Offiline first </sub><br><br>
-      <a href="https://play.google.com/store/apps/details?id=com.bersyte.billify" target="_blank">**Google Play Store**</a> ·
-      <a href="https://apps.apple.com/bg/app/billiffy/id1638395030" target="_blank">**App Store**</a>
+      <sub>Flutter · Firebase · Offline first </sub><br><br>
+      <a href="https://play.google.com/store/apps/details?id=com.bersyte.billify" target="_blank">Google Play Store</a> ·
+      <a href="https://apps.apple.com/bg/app/billiffy/id1638395030" target="_blank">App Store</a>
     </td>
     <td width="50%" valign="top" align="center">
       <a href="LINK_DA_LOJA_ISHOP" target="_blank">
