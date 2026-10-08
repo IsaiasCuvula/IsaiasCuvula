@@ -8,7 +8,7 @@ Mobile developer building native and cross-platform apps for Android and iOS. Se
   <tr>
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/IsaiasCuvula/billiffy" target="_blank">
-        <img src="COLE_AQUI_IMAGEM_BILLIFFY" alt="Billiffy" width="100%">
+        <img src="https://github.com/user-attachments/assets/78721c19-541d-4aab-b156-7484d3d181be" alt="Billiffy" width="100%">
       </a>
       <h3>Billiffy</h3>
       Personal and collaborative finance app.<br>
