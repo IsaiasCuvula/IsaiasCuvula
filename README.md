@@ -7,12 +7,12 @@ Mobile developer building native and cross-platform apps for Android and iOS. Se
 <table>
   <tr>
     <td width="50%" valign="top" align="center">
-      <a href="LINK_DA_LOJA_BILLIFFY" target="_blank">
+      <a href="https://github.com/IsaiasCuvula/billiffy" target="_blank">
         <img src="COLE_AQUI_IMAGEM_BILLIFFY" alt="Billiffy" width="100%">
       </a>
       <h3>Billiffy</h3>
       Personal and collaborative finance app.<br>
-      <sub>Flutter · Firebase</sub><br><br>
+      <sub>Flutter · Firebase · Offiline first </sub><br><br>
       <a href="LINK_DA_LOJA_BILLIFFY" target="_blank">Store</a> ·
       <a href="https://github.com/IsaiasCuvula/billiffy/" target="_blank">Code</a>
     </td>
@@ -50,12 +50,6 @@ Mobile developer building native and cross-platform apps for Android and iOS. Se
     </td>
   </tr>
 </table>
-
-[Billiffy](https://github.com/IsaiasCuvula/billiffy/) - Personal & Collaborative Finance App
-
-[iShop](https://github.com/IsaiasCuvula/flutter_ecommerce_with_firebase) - Complete Ecommerce Mobile App (Android & iOS)
-
-#### Mobile Development
 
 ### Get in touch
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bersyteinfo@gmail.com)
