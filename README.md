@@ -27,13 +27,13 @@ Mobile developer building native and cross-platform apps for Android and iOS.
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
-      <a href="https://github.com/IsaiasCuvula/task-flow-ios" target="_blank">Code</a>
-      <a href="LINK_DA_LOJA_TASKFLOW" target="_blank">
+       <h3><a href="https://github.com/IsaiasCuvula/task-management" target="_blank">TaskFlow</h3>
+      <a href="https://github.com/IsaiasCuvula/task-management" target="_blank">
         <img src="COLE_AQUI_IMAGEM_TASKFLOW" alt="TaskFlow" width="100%">
       </a>
     </td>
     <td width="50%" valign="top" align="center">
-         <h3><a href="https://github.com/IsaiasCuvula/CarRental">Rent Car - Customer & Admin App</h3>
+         <h3><a href="https://github.com/IsaiasCuvula/CarRental" target="_blank">Rent Car - Customer & Admin App</h3>
       <a href="https://github.com/IsaiasCuvula/CarRental" target="_blank">
         <img src="https://github.com/user-attachments/assets/d80895e7-8ecd-4cac-945e-9991244d2f61" alt="Image Rent a Car" width="100%">
       </a>
