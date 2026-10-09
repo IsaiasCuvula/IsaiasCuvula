@@ -29,7 +29,7 @@ Mobile developer building native and cross-platform apps for Android and iOS.
     <td width="50%" valign="top" align="center">
        <h3><a href="https://github.com/IsaiasCuvula/task-management" target="_blank">TaskFlow</h3>
       <a href="https://github.com/IsaiasCuvula/task-management" target="_blank">
-        <img src="COLE_AQUI_IMAGEM_TASKFLOW" alt="TaskFlow" width="100%">
+        <img src="https://github.com/user-attachments/assets/f4512de4-0f2d-4d12-986f-0eac223f695d" alt="TaskFlow" width="100%">
       </a>
     </td>
     <td width="50%" valign="top" align="center">
