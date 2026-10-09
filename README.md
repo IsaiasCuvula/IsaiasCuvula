@@ -33,9 +33,9 @@ Mobile developer building native and cross-platform apps for Android and iOS.
       </a>
     </td>
     <td width="50%" valign="top" align="center">
-         <h3>App 4</h3>
-      <a href="LINK_DA_LOJA_APP4" target="_blank">
-        <img src="COLE_AQUI_IMAGEM_APP4" alt="App 4" width="100%">
+         <h3><a href="https://github.com/IsaiasCuvula/CarRental">Rent Car - Customer & Admin App</h3>
+      <a href="https://github.com/IsaiasCuvula/CarRental" target="_blank">
+        <img src="https://github.com/user-attachments/assets/d80895e7-8ecd-4cac-945e-9991244d2f61" alt="Image Rent a Car" width="100%">
       </a>
     </td>
   </tr>
