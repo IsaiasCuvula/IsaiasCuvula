@@ -19,36 +19,24 @@ Mobile developer building native and cross-platform apps for Android and iOS.
       </a>
     </td>
     <td width="50%" valign="top" align="center">
+      <h3>iShop</h3>
       <a href="LINK_DA_LOJA_ISHOP" target="_blank">
         <img src="COLE_AQUI_IMAGEM_ISHOP" alt="iShop" width="100%">
       </a>
-      <h3>iShop</h3>
-      Complete e-commerce app for Android and iOS.<br>
-      <sub>Flutter · Firebase</sub><br><br>
-      <a href="LINK_DA_LOJA_ISHOP" target="_blank">Store</a> ·
-      <a href="https://github.com/IsaiasCuvula/flutter_ecommerce_with_firebase" target="_blank">Code</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
+      <a href="https://github.com/IsaiasCuvula/task-flow-ios" target="_blank">Code</a>
       <a href="LINK_DA_LOJA_TASKFLOW" target="_blank">
         <img src="COLE_AQUI_IMAGEM_TASKFLOW" alt="TaskFlow" width="100%">
       </a>
-      <h3>TaskFlow</h3>
-      Task manager built with SwiftUI and SwiftData.<br>
-      <sub>SwiftUI · SwiftData</sub><br><br>
-      <a href="LINK_DA_LOJA_TASKFLOW" target="_blank">Store</a> ·
-      <a href="https://github.com/IsaiasCuvula/task-flow-ios" target="_blank">Code</a>
     </td>
     <td width="50%" valign="top" align="center">
+         <h3>App 4</h3>
       <a href="LINK_DA_LOJA_APP4" target="_blank">
         <img src="COLE_AQUI_IMAGEM_APP4" alt="App 4" width="100%">
       </a>
-      <h3>App 4</h3>
-      One line about what it does.<br>
-      <sub>Kotlin · Jetpack Compose</sub><br><br>
-      <a href="LINK_DA_LOJA_APP4" target="_blank">Store</a> ·
-      <a href="LINK_DO_REPO_APP4" target="_blank">Code</a>
     </td>
   </tr>
 </table>
