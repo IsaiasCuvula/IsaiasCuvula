@@ -19,7 +19,7 @@ Mobile developer building native and cross-platform apps for Android and iOS.
       </a>
     </td>
     <td width="50%" valign="top" align="center">
-      <h3>iShop - <a href="https://github.com/IsaiasCuvula/flutter_ecommerce_with_firebase" target="_blank"> </h3>
+      <h3><a href="https://github.com/IsaiasCuvula/flutter_ecommerce_with_firebase" target="_blank">iShop - Customer & Admin App </h3>
       <a href="https://github.com/IsaiasCuvula/flutter_ecommerce_with_firebase" target="_blank">
         <img src="https://github.com/user-attachments/assets/270b86e3-35b8-4005-ab15-bce08eb6181b" alt="iShop Flutter Ecommerce App"  width="100%">
       </a>
