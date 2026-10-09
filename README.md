@@ -2,24 +2,21 @@
 
 Mobile developer building native and cross-platform apps for Android and iOS.
 
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?style=flat-square&logo=swift&logoColor=white)
-
 
 ## Featured projects
 
 <table>
   <tr>
     <td width="50%" valign="top" align="center">
+      <h3>Billiffy - <a href="https://play.google.com/store/apps/details?id=com.bersyte.billify" target="_blank">Google Play</a> - <a href="https://apps.apple.com/bg/app/billiffy/id1638395030" target="_blank">App Store</a></h3>
       <a href="https://github.com/IsaiasCuvula/billiffy" target="_blank">
         <img src="https://github.com/user-attachments/assets/78721c19-541d-4aab-b156-7484d3d181be" alt="Billiffy" width="100%">
       </a>
-      <h3>Billiffy</h3>
-      Personal and collaborative finance app.<br>
-      <sub>Flutter · Firebase · Offline first </sub><br><br>
-      <a href="https://play.google.com/store/apps/details?id=com.bersyte.billify" target="_blank">Google Play Store</a> ·
-      <a href="https://apps.apple.com/bg/app/billiffy/id1638395030" target="_blank">App Store</a>
     </td>
     <td width="50%" valign="top" align="center">
       <a href="LINK_DA_LOJA_ISHOP" target="_blank">
